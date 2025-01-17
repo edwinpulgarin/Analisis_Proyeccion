@@ -1,0 +1,13 @@
+region,shipping_priority,quantity
+East,High,29592.0
+East,Low,20362.0
+East,Medium,51703.0
+North,High,122806.0
+North,Low,20089.0
+North,Medium,60960.0
+South,High,30067.0
+South,Low,20075.0
+South,Medium,50731.0
+West,High,29548.0
+West,Low,20506.0
+West,Medium,51376.0
